@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_cerp_aws_basic_cerp_aws_basic,cerp_aws_basic.cerp_aws_basic,model_cerp_aws_basic_cerp_aws_basic,,1,0,0,0
